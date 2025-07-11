@@ -63,9 +63,9 @@ This Arduino sketch implements the SOS alert mechanism in the smart helmet syste
 
 ![Circuit Diagram](images/circuit_diagram.png)
 ![Prototype image](images/Circuit_prototype.jpg)
-![Final project image]
+![The project image](images/SOS_device.jpg)
 
-
+---
 
 ##  Author
 
