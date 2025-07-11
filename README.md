@@ -2,6 +2,8 @@
 
 An emergency-response system built into a smart helmet. It uses GPS and GSM modules to send real-time location via SMS and initiate a call when an SOS button is pressed.
 
+--- 
+
 ## SOS Emergency Alert (Arduino-GPS-GSM System)
 - In the event of an accident or emergency, the user presses the SOS button mounted on the helmet.
 - The Arduino Nano reads this input and wakes the GPS module.
@@ -11,6 +13,8 @@ An emergency-response system built into a smart helmet. It uses GPS and GSM modu
 - It can also initiate a phone call as an additional alert mechanism.
 - The program includes smart delay functions for GPS data retrieval and ensures the alert is sent only once per press.
 
+---
+
 
 ## Tech Stack
 
@@ -18,6 +22,8 @@ An emergency-response system built into a smart helmet. It uses GPS and GSM modu
 - **GSM Module**: SIM800L
 - **GPS Module**: NEO-6M
 - **Libraries**: TinyGPSPlus, SoftwareSerial
+
+---
 
 ## Features
 
@@ -28,6 +34,8 @@ An emergency-response system built into a smart helmet. It uses GPS and GSM modu
 - Built using Arduino Nano
 
 This Arduino sketch implements the SOS alert mechanism in the smart helmet system. It enables the rider to send their real-time GPS location to emergency contacts through an SMS using the SIM800L GSM module. The system supports both manual and remote activation.
+
+---
 
 ## Key Functional Features: 
 
